@@ -1,8 +1,6 @@
 class Solution {
 public:
     int numDecodings(string s) {
-        // "1**" [9] + [9 + 15] + [24 + [9 + 9]]
-        // "1*11" [1] + [[[1] + 8] + [2]
         int size = s.size();
         long dp[size];
         if(s[size-1]=='0')
