@@ -11,3 +11,4 @@ this is a repo what records my leetcode footprinter.
 ## reference
 
 * https://www.zhihu.com/question/39948290/answer/1309260344
+* https://oi-wiki.org/dp/interval/
